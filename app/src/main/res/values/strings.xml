@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MedicalNotificationApp</string>
+    <string name="baslik">Baslik</string>
+    <string name="mesaj">Mesaj</string>
+    <string name="title">Baslik</string>
+    <string name="message">Mesaj</string>
+    <string name="bildirim_olustur">Bildirim Olustur</string>
+</resources>
